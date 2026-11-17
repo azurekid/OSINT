@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="DI-2026-0518 forensic export" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Device 490154203237518 - location history</name>
+    <desc>Recovered from handset found at Paddy Coyne's Irish Pub, Bellevue. All timestamps UTC.</desc>
+  </metadata>
+  <trk>
+    <name>Device 490154203237518 - location history</name>
+    <trkseg>
+      <trkpt lat="47.690200" lon="-122.205100"><ele>40</ele><time>2026-03-26T06:55:00Z</time></trkpt>
+      <trkpt lat="47.690213" lon="-122.205124"><ele>40</ele><time>2026-03-26T07:02:00Z</time></trkpt>
+      <trkpt lat="47.682767" lon="-122.197179"><ele>45</ele><time>2026-03-26T07:12:00Z</time></trkpt>
+      <trkpt lat="47.679239" lon="-122.179630"><ele>45</ele><time>2026-03-26T07:22:00Z</time></trkpt>
+      <trkpt lat="47.677698" lon="-122.157289"><ele>45</ele><time>2026-03-26T07:32:00Z</time></trkpt>
+      <trkpt lat="47.678144" lon="-122.145017"><ele>45</ele><time>2026-03-26T07:42:00Z</time></trkpt>
+      <trkpt lat="47.680583" lon="-122.142641"><ele>45</ele><time>2026-03-26T07:47:00Z</time></trkpt>
+      <trkpt lat="47.680920" lon="-122.142280"><ele>42</ele><time>2026-03-26T07:51:33Z</time></trkpt>
+      <trkpt lat="47.680919" lon="-122.142281"><ele>42</ele><time>2026-03-26T07:57:00Z</time></trkpt>
+      <trkpt lat="47.680922" lon="-122.142281"><ele>42</ele><time>2026-03-26T08:02:00Z</time></trkpt>
+      <trkpt lat="47.680917" lon="-122.142276"><ele>42</ele><time>2026-03-26T08:07:00Z</time></trkpt>
+      <trkpt lat="47.677256" lon="-122.144361"><ele>55</ele><time>2026-03-26T08:21:00Z</time></trkpt>
+      <trkpt lat="47.649958" lon="-122.143278"><ele>55</ele><time>2026-03-26T08:42:00Z</time></trkpt>
+      <trkpt lat="47.617007" lon="-122.134975"><ele>55</ele><time>2026-03-26T09:04:00Z</time></trkpt>
+      <trkpt lat="47.616520" lon="-122.132620"><ele>62</ele><time>2026-03-26T09:19:44Z</time></trkpt>
+      <trkpt lat="47.616517" lon="-122.132617"><ele>62</ele><time>2026-03-26T09:55:00Z</time></trkpt>
+      <trkpt lat="47.616522" lon="-122.132622"><ele>62</ele><time>2026-03-26T10:30:00Z</time></trkpt>
+      <trkpt lat="47.616520" lon="-122.132620"><ele>62</ele><time>2026-03-26T11:02:11Z</time></trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="47.616506" lon="-122.132633"><ele>62</ele><time>2026-03-27T18:08:00Z</time></trkpt>
+      <trkpt lat="47.636027" lon="-122.229948"><ele>20</ele><time>2026-03-27T18:20:00Z</time></trkpt>
+      <trkpt lat="47.621160" lon="-122.328647"><ele>40</ele><time>2026-03-27T18:33:00Z</time></trkpt>
+      <trkpt lat="47.609400" lon="-122.341600"><ele>35</ele><time>2026-03-27T18:42:00Z</time></trkpt>
+      <trkpt lat="47.609398" lon="-122.341599"><ele>35</ele><time>2026-03-27T18:49:00Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
