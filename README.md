@@ -1,4 +1,4 @@
-# OPERATION ESPRIT — Case Briefing
+# OPERATION ESPRIT: Case Briefing
 
 ```
     /\_/\
