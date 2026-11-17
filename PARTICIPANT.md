@@ -1,4 +1,4 @@
-# OPERATION ESPRIT — Participant Case Log
+# OPERATION ESPRIT: Participant Case Log
 
 ```
     /\_/\
@@ -33,7 +33,7 @@
 - Coordinates are decimal degrees (WGS84). Tower coordinates are the tower position, not the handset position.
 - The GPX files can be opened with [gpx.studio](https://gpx.studio), Google Earth, or QGIS.
 
-## Phase 1 — Photo forensics (`campus_photo.jpg`)
+## Phase 1 Photo forensics (`campus_photo.jpg`)
 
 Inspect the file's embedded metadata (for example with `exiftool`).
 
@@ -43,7 +43,7 @@ Inspect the file's embedded metadata (for example with `exiftool`).
 - [ ] 1.4 The `Artist` field
 - [ ] 1.5 When the photo was taken
 
-## Phase 2 — Digital footprint
+## Phase 2 Digital footprint
 
 Work from the photo outward to the person behind it.
 
@@ -56,7 +56,7 @@ Work from the photo outward to the person behind it.
 - [ ] 2.7 Which two Seattle locations does the Instagram account place the uploader at between 22 and 24 March?
 - [ ] 2.8 The uploader's blog URL
 
-## Phase 3 — Travel reviews
+## Phase 3 Travel reviews
 
 - [ ] 3.1 Which Seattle music venue did the subject review?
 - [ ] 3.2 What time did the subject say they left?
@@ -65,7 +65,7 @@ Work from the photo outward to the person behind it.
 - [ ] 3.5 Which Bellevue pub did the subject review?
 - [ ] 3.6 What does the pub's own website say about its current service status?
 
-## Phase 4 — Blog intelligence
+## Phase 4 Blog intelligence
 
 - [ ] 4.1 Title of the 22 March blog post
 - [ ] 4.2 What artifact does the post describe, and what do you know about it?
@@ -73,7 +73,7 @@ Work from the photo outward to the person behind it.
 - [ ] 4.4 Which unit number is named?
 - [ ] 4.5 What phrase is used to confirm the second meeting?
 
-## Phase 5 — Telemetry analysis
+## Phase 5 Telemetry analysis
 
 - [ ] 5.1 Which East Link station is nearest the 08:52 ping on 25 March?
 - [ ] 5.2 At what time does a device ping the tower near Building 34?
@@ -82,7 +82,7 @@ Work from the photo outward to the person behind it.
 - [ ] 5.5 Plot both GPX tracks. At which locations do the two devices overlap in time and place?
 - [ ] 5.6 In which city does the second device's track begin?
 
-## Phase 6 — Final report
+## Phase 6 Final report
 
 - [ ] 6.1 Name the storage facility where the stolen item is being held.
 - [ ] 6.2 Give the unit number.
